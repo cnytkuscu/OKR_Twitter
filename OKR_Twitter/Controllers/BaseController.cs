@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using OKR_Twitter.Business;
-using OKR_Twitter.Interfaces;
-using OKR_Twitter.Models.RequestModels;
+﻿using Interfaces.Interfaces;
+using Microsoft.AspNetCore.Mvc;
+using Models.Models.RequestModels;
 
 namespace OKR_Twitter.Controllers
 {

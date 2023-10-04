@@ -1,9 +1,8 @@
+using Business.Business;
+using Context.Context;
+using DataAccess.DataAccess;
+using Interfaces.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using OKR_Twitter.Business;
-using OKR_Twitter.Context;
-using OKR_Twitter.DataAccess;
-using OKR_Twitter.Interfaces;
-using System;
 
 namespace OKR_Twitter
 {
